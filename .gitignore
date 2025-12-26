@@ -2,7 +2,7 @@
 .env
 
 # Database
-ecommerce.db
+# ecommerce.db
 
 # Python cache
 __pycache__/
