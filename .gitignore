@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Database
+ecommerce.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Generated plots
+plots/
+*.png
+
+# IDE
+.vscode/
