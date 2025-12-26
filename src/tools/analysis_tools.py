@@ -85,6 +85,8 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import plotly.express as px
 import plotly.graph_objects as go
+import matplotlib
+matplotlib.use('Agg') # Required for Streamlit Cloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 import json
